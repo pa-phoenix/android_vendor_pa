@@ -18,6 +18,7 @@ android_library {
         "src/**/*.java",
         "src/**/*.kt"
     ],
+    resource_dirs: ["res"],
     static_libs: [
         "androidx.preference_preference",
     ],
