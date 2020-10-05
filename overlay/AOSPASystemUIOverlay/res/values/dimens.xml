@@ -19,4 +19,7 @@
     <!-- dimensions for the navigation bar handle -->
     <dimen name="navigation_home_handle_width">140dp</dimen>
 
+    <!--  Blur radius on status bar window and power menu  -->
+    <dimen name="max_window_blur_radius">175px</dimen>
+
 </resources>
