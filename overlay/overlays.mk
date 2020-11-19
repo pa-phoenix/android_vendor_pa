@@ -44,4 +44,5 @@ PRODUCT_PACKAGES += \
     FontUrbanistOverlay \
     ParanoidDozeOverlay \
     ParanoidHubOverlay \
-    ParanoidLauncherOverlay
+    ParanoidLauncherOverlay \
+    PixelDocumentsUIGoogleOverlay
