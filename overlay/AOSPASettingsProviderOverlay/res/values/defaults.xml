@@ -19,4 +19,10 @@
     <!-- Automatic Brightness -->
     <bool name="def_screen_brightness_automatic_mode">true</bool>
 
+    <!-- Bluetooth -->
+    <bool name="def_bluetooth_on">false</bool>
+
+    <!-- UI touch sounds -->
+    <bool name="def_sound_effects_enabled">false</bool>
+
 </resources>
