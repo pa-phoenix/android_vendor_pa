@@ -84,3 +84,7 @@ PRODUCT_PACKAGES += \
 # SystemUI Plugins
 PRODUCT_PACKAGES += \
     QuickAccessWallet
+
+# Other stuff
+PRODUCT_PACKAGES += \
+    SoftAPManager
